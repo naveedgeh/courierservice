@@ -1,0 +1,43 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	24/7 Express Logistics Services
+Version:	1.0
+Assigned to:	WebNik
+Primary use:	24/7 Express Logistics Services
+-------------------------------------------------------------------*/
+
+
+/* FONTS*/
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:700,600,400,300,300italic,700|Lato:400,300,300italic,700,900|Merriweather:400italic);
+@import url('../fonts/flaticon/flaticon.css');
+@import url('../fonts/font-awesome-4.5.0/css/font-awesome.min.css');
+
+
+
+/* PLUGIN CSS */
+
+@import url('../plugins/bootstrap/css/bootstrap.css');                /* bootstrap */
+@import url('../plugins/yamm/yamm.css');                              /* responsive menu */
+@import url('../plugins/slider-pro/dist/css/slider-pro.css');         /* main slider */
+@import url('../plugins/owl-carousel/owl.carousel.css');              /* other sliders */
+@import url('../plugins/owl-carousel/owl.transitions.css');           /* other sliders */
+@import url('../plugins/owl-carousel/owl.theme.css');                 /* other sliders */
+@import url('../plugins/flexslider/flexslider.css');                  /* sliders */
+@import url('../plugins/prettyphoto/css/prettyPhoto.css');            /* modal */
+@import url('../plugins/bootstrap-select/dist/css/bootstrap-select.css');   /* select customization-2 */
+@import url('../plugins/animate/animate.css');                        /* animations */
+@import url('../plugins/parallax.css');                               /* parallax */
+@import url('../plugins/validation/validation-2.2.min.css');          /* validation */
+
+
+
+/* MAIN CSS */
+
+@import url('preloader.css');
+@import url('theme.css');
+@import url('sections.css');
+@import url('sidebar.css');
+@import url('blog.css');
+@import url('color.css');
+@import url('responsive.css');

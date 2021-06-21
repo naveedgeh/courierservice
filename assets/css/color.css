@@ -1,0 +1,104 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 1*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+a,
+.color-primary,
+.decor-1 .icon,
+.blockquote_mod-a:before,
+.blockquote_mod-c:before,
+.text-primary,
+.link-tooltip-1,
+.list-num_mod-a li:before,
+.list-mark_mod-e li:before,
+.header-top .social-links > li > a:hover,
+.yamm .nav > li > a:hover,
+.yamm .nav > li.active > a,
+.block-services:hover .block-services__title,
+.decor-4_mod-a .icon,
+.progress-center__link:hover .icon,
+.btn-link:hover,
+.post .entry-meta__item .icon,
+.post_mod-b:hover .entry-title,
+.post_mod-b:hover .entry-title a,
+.list-features__title-emphasis,
+.list-staff .social-links .icon:hover,
+.list-staff:hover .list-staff__name,
+.list-progress__title-icon,
+.decor-4_mod-c .icon,
+.block-services .icon {color: #ffb118;}
+
+
+.bg-primary,
+.decor-2:before,
+.dropcap_mod-a:first-letter,
+.tooltip-1 .tooltip-inner,
+.list-mark_mod-d li:after,
+.btn-primary,
+.btn_mod-a:before,
+.pagination_mod-a > .active > a,
+.pagination_mod-a > .active > span,
+.pagination_mod-a a:hover,
+.pagination_mod-a span:hover,
+.pagination_mod-a a:focus,
+.pagination_mod-a span:focus,
+.forms__label-check_mod-a:after,
+.forms__label-radio_mod-a:before,
+.forms__label-radio_mod-b:after,
+.progress-bar-primary,
+.section-subscribe,
+.btn_mod-b:before,
+.table_mod-a > thead > tr > th:before,
+.social-links_mod-a > li > a:hover,
+.main-slider .sp-thumbnail-icon:hover,
+.main-slider .sp-selected-thumbnail .sp-thumbnail-icon,
+.decor-3:before,
+.reviews__author-title:after,
+.slider-tumbsnails .sp-selected-thumbnail .sp-thumbnail,
+.list-features__title:after,
+.list-features-2__title:after,
+.ui-title-block_w_bg-primary:before,
+.accordion .panel-heading .btn-collapse,
+.accordion .panel-heading .btn-collapse:hover,
+.accordion .panel-heading .btn-collapse:hover:before,
+.accordion .panel-heading .btn-collapse:before,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+.post .entry-date,
+.post .entry-media:before,
+.slider-thumbnails-nav .flex-active-slide,
+.list-staff:hover .list-staff__img:after,
+.parallax-primary:after,
+.list-widget__link:after,
+.list-tags__btn:hover,
+.list-widget__link:hover,
+.yamm .navbar-toggle {background-color: #FFB118;}
+
+
+.pagination_mod-a > .active > a,
+.pagination_mod-a > .active > span,
+.pagination_mod-a a:hover,
+.pagination_mod-a span:hover,
+.pagination_mod-a a:focus,
+.pagination_mod-a span:focus,
+.progress_border_primary {border-color: #FFB118;}
+
+
+.blockquote_mod-b {border-left-color: #ffb118;}
+
+
+.tooltip-1.top .tooltip-arrow {border-top-color: #FFB118;}
+
+.table-striped > thead > tr > th,
+.post_mod-c .entry-meta {
+	border-bottom-color: #FFB118;
+}
+
+
+.carusel-clients__item:hover {
+	box-shadow: 0 3px 0 0 #FFB118;
+}
+.block-services:hover {
+	box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.1), 0 3px 0 0 #ffb118;
+}

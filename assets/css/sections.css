@@ -1,0 +1,174 @@
+/*------------------------------------------------------------------
+
+[TABLE OF CONTENTS]
+
+- Default sections
+- Title section
+- Sections with backgraund
+- Other sections
+- Typography sections
+
+-------------------------------------------------------------------*/
+
+
+
+/* Default sections */
+
+.section-area {
+	position: relative;
+}
+
+.section-default {
+	position: relative;
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+.section_mod-a {
+	padding-bottom: 100px;
+}
+.section_mod-b {
+	padding-top: 70px;
+}
+.section_mod-c {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.section_mod-d {
+	padding-bottom: 140px;
+}
+.section_mod-e {
+	padding-top: 100px;
+}
+
+
+/* Title section */
+
+.section-title {
+	position: relative;
+	padding-top: 211px;
+	color: #fff;
+}
+.section-title .section__inner {
+	padding-bottom: 72px;
+}
+
+
+/* Sections with backgraund */
+
+.section-bg {
+	position: relative;
+}
+.section-bg:after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	content: '';
+}
+.section-bg_mod-a {
+	background-color: #f6f6f6;
+}
+.section-bg_mod-b {
+	background: url('../media/bg/bg-3.png') no-repeat 50% 0;
+	background-size: cover;
+	overflow: hidden;
+}
+.section-bg_mod-c {
+	background: url('../media/bg/bg-5.jpg') no-repeat 50% 50%;
+}
+.section-bg_mod-d {
+	position: relative;
+	padding-top: 65px;
+	padding-bottom: 100px;
+}
+.section-bg_mod-d:before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 315px;
+	background-color: #f6f6f6;
+	content: '';
+}
+.section-bg_mod-e {
+	margin-bottom: 62px;
+	padding-top: 29px;
+	padding-bottom: 33px;
+	background: url('../media/bg/bg-8.jpg') no-repeat 50% 50%;
+}
+
+.section__inner {
+	position: relative;
+	z-index: 10;
+}
+
+
+/* Other sections */
+
+.section-clients {
+	padding-top: 90px;
+	padding-bottom: 80px;
+}
+
+.section-reply-form {
+	margin-top: 35px;
+}
+
+.section-subscribe {
+	position: relative;
+	margin-top: 95px;
+	padding: 70px 10px 10px 93px;
+	color: #fff;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+.section-top-minus {
+	margin-top: -60px;
+}
+
+.section-title-block {
+	padding-top: 94px;
+	padding-bottom: 95px;
+}
+
+.section-progress {
+	padding-top: 0;
+	padding-bottom: 55px;
+}
+
+.section-reviews {
+	padding-right: 60px;
+	padding-bottom: 40px;
+	padding-left: 68px;
+}
+
+.section-posts {
+	margin-right: 27px;
+}
+
+.section-contacts-block {
+	margin-bottom: 70px;
+}
+.section-contacts-block + .section-contacts-block {
+	margin-bottom: 40px;
+}
+
+
+
+/* Typography sections */
+
+.typography-section {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.typography-section__inner {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.section-border {
+	border-bottom: 4px double #eee;
+}
